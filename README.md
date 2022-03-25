@@ -1,2 +1,2 @@
 # learning-stuufs
-#JavaScript Basics
+#JavaScript Basic

@@ -1,2 +1,1 @@
-# learning-stuufs
-#JavaScript Basic
+Javascript basics-- (Let, Var Const difference):
